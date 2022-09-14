@@ -1,0 +1,9 @@
+[package]
+name = "frontend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+druid = "0.7.0"
+
+algorithms = { path = "../algorithms" }
